@@ -20,6 +20,7 @@
             <artifactId>framework</artifactId>
             <version>${karaf.version}</version>
             <type>kar</type>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
